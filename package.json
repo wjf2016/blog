@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "algolia-upload-records.js",
+  "dependencies": {
+    "algoliasearch": "^4.14.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "upload-algolia-records": "node upload-algolia-records.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wjf2016/blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wjf2016/blog/issues"
+  },
+  "homepage": "https://github.com/wjf2016/blog#readme"
+}
